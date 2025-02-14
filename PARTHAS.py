@@ -4,7 +4,7 @@ import os
 import json
 
 # Configure Gemini
-api_key = "AIzaSyBfMGjYdkWLlbG3uOLX5GElSSPP1sVFN2g"  # Replace with your actual API key
+api_key = "AIzaSyAKjy-Ijf6fjU1EMA48B1Bfe5wHeAox2bk"  # Replace with your actual API key
 genai.configure(api_key=api_key)
 
 # Create a Gemini model instance
